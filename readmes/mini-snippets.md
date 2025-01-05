@@ -38,7 +38,7 @@ https://github.com/user-attachments/assets/2cb38960-a26c-48ae-83cd-5fbcaa57d1cf
     - Configurable mappings for jumping and stopping.
     - Jumping wraps around the tabstops for easier navigation.
     - Easy to reason rules for when session automatically stops.
-    - Text synchronization of linked tabstops.
+    - Text synchronization of linked tabstops preserving relative indent.
     - Dynamic tabstop state visualization (current/visited/unvisited, etc.)
     - Inline visualization of empty tabstops (requires Neovim>=0.10).
     - Works inside comments by preserving comment leader on new lines.
